@@ -1,2 +1,2 @@
 # hello-world
-what am i doing
+Hello, my name is Phillip
